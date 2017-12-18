@@ -6,6 +6,7 @@ bower_components
 src/css
 src/fonts
 src/js
+package-lock.json
 
 # Include when developing application packages.
 pubspec.lock
